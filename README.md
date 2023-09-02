@@ -507,27 +507,7 @@ No thanks
 You can also support us by:
 
 <p align="left">
-  <a title="Dukung saya di trakteer.id" style="box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
-    line-height: 36px!important;
-    display: inline-block!important;
-    background-color: #be1e2d;
-    padding: 4px 24px !important;
-    text-align: center !important;
-    border-radius: 9999px;
-    color: #fff;
-    cursor: pointer;
-    overflow-wrap: break-word;
-    vertical-align: middle;
-    border: 0 none #fff !important;
-    font-family: 'Quicksand',Helvetica,Century Gothic,sans-serif !important;
-    text-decoration: none;
-    text-shadow: none;
-    font-weight: 700!important;" href="https://trakteer.id/iamgdev" target="_blank">
-    <span class="trbtn-txt">
-        <img src="https://cdn.trakteer.id/images/embed/trbtn-icon.png" alt="Traktiran" style="display: inline-block; width: 14px; height: 22px; margin-right: 6px; margin-bottom: -2px;" />
-        <span>Trakteer</span>
-    </span>
-</a>
+	[<img src="https://button.ibnux.net/trakteer/iamgdev.png" width="128" />](https://teer.id/iamgdev)
 </p>
 
 ## License

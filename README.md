@@ -507,7 +507,7 @@ No thanks
 You can also support us by:
 
 <p align="left">
-	[<img src="https://button.ibnux.net/trakteer/iamgdev.png" width="128" />](https://teer.id/iamgdev)
+	<a href='https://teer.id/iamgdev'><img src="https://button.ibnux.net/trakteer/iamgdev.png" width="128" /></a>
 </p>
 
 ## License
